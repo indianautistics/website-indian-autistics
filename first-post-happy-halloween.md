@@ -1,5 +1,5 @@
 ---
-layout: ''
+layout: post
 title: First Post - Happy Halloween
 date: 2021-10-30 18:30:00 +0000
 categories: halloween
