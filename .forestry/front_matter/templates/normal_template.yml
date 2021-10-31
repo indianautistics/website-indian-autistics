@@ -15,5 +15,4 @@ fields:
   name: categories
   label: categories
 pages:
-- _posts/second-post.md
-- _posts/some-new-title.md
+- _posts/hearing-protection.md
