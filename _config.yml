@@ -22,7 +22,7 @@ title: Indian Autistics
 email: indianautistics@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A blog written by an Indian autistic person.
-domain:indianautistics.github.io
+domain: indianautistics.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://indianautistics.github.io 
 twitter_username: aniketsmk
