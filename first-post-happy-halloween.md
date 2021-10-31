@@ -3,7 +3,6 @@ layout: ''
 title: First Post - Happy Halloween
 date: 2021-10-30 18:30:00 +0000
 categories: halloween
-published: false
 
 ---
 Hey!
