@@ -29,7 +29,7 @@ twitter_username: indianautistic
 github_username:  indianautistics
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
