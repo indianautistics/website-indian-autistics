@@ -7,6 +7,8 @@ categories: halloween
 ---
 Hey!
 
+This was an early post while I was figuring out how to make this site work. Feel free to look at it as an example that things can be hard but it's worth doing them anyway :)
+
 Got this working after some very frustrating trouble with jekyll. But it looks like it's working now.
 
 Whew, nearly got this working the way I prefer, just got some simple forestry layout things to edit =/
