@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hearing Protection
-date: 2021-10-31 17:14:00 +0000
+date: 2021-11-02 14:30:00 +0000
 categories: autism,noise cancellation,sound,hyperacusis
 
 ---
@@ -15,7 +15,7 @@ In this post I'm going to talk about different items I've used to protect my ear
 
 # Earplugs
 
-The classic earplugs, 
+The classic earplugs, made by 3M (an industrial safety equipment company). 
 
 # Noise Cancelling Headphones
 
