@@ -69,6 +69,15 @@ You don't want to let these get dusty, I've never had a problem with ear infecti
 
 They make working possible. They're making writing this article possible despite cars honking outside.
 
+#### Where to buy
+
+Flipkart or Amazon are good for these. Just make sure that the ones you get come with each pair individually wrapped in a branded 3M plastic bag. The foam earplugs that aren't 3M (sometimes you get non 3M ones even if you ordered 3M plugs) are pretty terrible at blocking noise.
+
+Search for:  
+3M Earplugs
+
+More to come later, here are some headings!
+
 # Noise Cancelling Headphones
 
 ### Over Ear
