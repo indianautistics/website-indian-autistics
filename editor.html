@@ -1,0 +1,29 @@
+<html>
+
+<head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/simplemde/latest/simplemde.min.css">
+    <script src="https://cdn.jsdelivr.net/simplemde/latest/simplemde.min.js"></script>
+</head>
+
+<body>
+    <!-- <button name="save" type="button">Submit</button> -->
+    <textarea id="editorid" name="editor"></textarea>
+    <script>
+        var simplemde = new SimpleMDE({
+            autofocus: true,
+            autosave: {
+                enabled: true,
+                uniqueId: "MyUniqueID",
+                delay: 1000,
+            },
+            blockStyles: {
+                bold: "__",
+                italic: "_"
+            },
+            promptURLs: true,
+            spellChecker: false
+        });
+    </script>
+</body>
+
+</html>
