@@ -9,7 +9,7 @@ Autism isn't a linear spectrum, [it's a spectrum with multiple categories](https
 
 They're complicated, sometimes contradictory but people are never so simple no matter what their brains are like. Here's my attempt at explaining what it feels like to be me on the spectrum.
 
-Language
+# Language
 
 Genius level language skills. Was always good, took only a little training as a kid to polish.
 
@@ -23,9 +23,9 @@ I also have trouble with figuring out implied meanings unless it's in a specfic 
 
 Always directly answer direct questions. Feels like lying otherwise. Can come off as rude or hostile when it's not meant that way.
 
-Sensory
+# Sensory
 
-Sight:
+### Sight:
 
 * My actual eyesight is pretty normal just need glasses for close up things. The difference is in the processing of vision in the brain.
 * Can't stand reflections in my glasses, like the reflection you might see if there's a light behind you. The constant distraction gives me a headache over 5-10 minutes.
@@ -35,7 +35,7 @@ Sight:
 * Separately from their colour temperature, flickering lights also give me headaches. No matter the colour temperature.
 * Monitors and my phone are always set to low light.
 
-Hearing:
+### Hearing:
 
 * Extremely sensitive hearing especially for higher pitched sounds.
 * Sharp sounds (like metal spoons on metal/ceramic plates) hurt. It's not discomfort the way neurotypical people experience it. I'd rather get an electric shock from a hot water geyser than hear a metal spoon drop onto a metal plate at arm-on-table height because the electric shock is less painful.
@@ -43,7 +43,7 @@ Hearing:
 * Particularly sharp sounds can give me instant headaches and force me to sleep for a while to recover.
 * Deeper sounds are ok, even loud ones. High pitch is more of a problem than loudness though loudness may be unpleasant.
 
-Touch:
+### Touch:
 
 * Cannot wear certain fabrics of clothes.
 * Cannot wear right fabrics if they touch my neck even if they are generally fine. Prefer open neck t-shirts.
@@ -52,26 +52,26 @@ Touch:
 * Need specific pyjamas, t-shirts to sleep.
 * Temperature senstive while sleeping, can't have it be too hot or cold would prevent sleep. This is usually find in the day. I prefer being slightly cold in the day. Much prefer that over being hot.
 
-Taste:
+### Taste:
 
 * Any taste is genrally fine but changing the taste/texture of a certain meal is not preferred. Can be mildly stressful if it changes everyday.
 * Would prefer the same dish to taste exactly the same.
 * Prefer having a standard breakfast, lunch and dinner dish. That changes infrequently (usually the same for weeks or months).
 
-Proprioception:
+# Proprioception:
 
 * Proprioception is knowing where your body is. Like how you can eat a spoonful of soup or rice with your eyes closed because you know where your hand is.
 * Extremely good at in-line skating, very agile on skates.
 * Slam into stationary obbjects while walking.
 * Particularly hit things with the edges of my body, like just the little toe or just my hip, while walking because I didn't realise I wasn't far enough away from it.
 
-Emotion:
+# Emotion:
 
 * Extremely emotional but without a lot of facial expressions so people don't realise it.
 * Emotional shutdown in various situations so the facial expressions can reduce to nothingness. I might be happy or sad or angry or genuinely neutral and it would all look the same.
 * I like to write poetry to express this.
 
-Executive function:
+# Executive function:
 
 Here's a definition of executive function:
 
@@ -95,3 +95,14 @@ Self-control enables us to set priorities and resist impulsive actions or respon
 * Because I can't deal with spur of the moment things, I pre-plan every detail in advance so I don't have to deal with new things on the go. Will be highly organized with dedicated prep time to organize. Will be an un-cordinated mess without it.
 
 All these things vary from person to person and autistic people might have conflicting sensory needs. Always be sure to ask the person what they _need_ and _believe it_.
+
+Are you an autistic person for whom the categories above matter in some way? I'd love to hear what you experience in:
+
+Language  
+Sensory, Sight, Hearing, Touch, Taste, Proprioception  
+Emotion  
+and Executive function
+
+Just write up what you feel about these either in your notepad or in the webpage for the [contributing editor](https://www.indianautistics.com/editor.html) which will save what you write and make it easy to email to me! I'll feature your work with credit or anonymously as you desire.
+
+I'm eager to hear from more of us autistics.
