@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Autistic Book Review - Social Queue by Kay Kerr
-date: 2022-02-15 15:30:00 +0000
+title: Autistic Book Review Social Queue by Kay Kerr
+date: 2022-02-15 03:30:00 +0000
 categories: book review
 
 ---
