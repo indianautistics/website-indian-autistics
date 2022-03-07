@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Autistic Hearing Protection
-date: 2021-11-02 14:30:00 +0000
+date: 2021-11-02T14:30:00.000+00:00
 categories: autism,noise cancellation,sound,hyperacusis
 
 ---
@@ -41,10 +41,20 @@ Makes your own voice a bit too loud for yourself. The effect isn't that bad and 
 
 ### How to use
 
-Hold one earplug in one hand and press along the length to flatten it. Then rotate it 90 degrees and press that side flat. You should have made a kind of + sign out of it.  
-Now inserting it into your ear should be easy.  
-Once it's in your ear, keep your finger on the end for a bit until it settles. Usually no more than 10 seconds.  
-  
+##### The recommended method
+
+Hold the flat end between your thumb and the finger next to it. Pull, stretch and roll with your other hand's thumb and finger. It should end up longer than it was before and rolled into a small width spiral shape.  
+This can easily be put into your ear and let the outside rest on a flap of your ear.  
+The advantage of this is that it blocks sound quite thoroughly and it doesn't echo in your ear _as much_ as the plus method.  
+Note that **if the ear plug appears torn**, not only will it not roll properly but **the echo effect and ear discomfort will be many times higher**.
+
+With this method the earplugs made in 2022 by 3M will tear in about a day or two but it's the only way to use them that doesn't end up hurting you.
+
+##### The (emergency) plus method
+
+**Warning: Using them this way greatly amplifies the pressure they put from inside your ear and the echo of your own voice when you speak. It is only recommended to do this if you need to be able to put them in one handed.**
+
+Hold one earplug in one hand and press along the length to flatten it. Then rotate it 90 degrees and press that side flat. You should have made a kind of + sign out of it.Now inserting it into your ear should be easy.Once it's in your ear, keep your finger on the end for a bit until it settles. Usually no more than 10 seconds.  
 3M recommends twisting it to put it in your ear however they made a change in how these are manufactured not long ago which means that if you keep twisting them, they tear in about a week or so. They used to last much longer with the twisting method.  
 However, if you use the pressing flat method there are two advantages.  
 1\. They basically don't go bad. I've been using one of the fragile new pairs for months.  
