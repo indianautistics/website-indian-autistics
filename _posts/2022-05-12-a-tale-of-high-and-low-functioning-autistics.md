@@ -19,7 +19,11 @@ We'll call this person a high functioning autistic.
 
 # B
 
-B has always struggled in school, apart from a few subjects, his 10th marks were decidly average and 12th even lower. He dropped out of college. Sounds hurt him quite a lot, often knocking him into autistic shutdown where he can only sit in a dark room with earplugs and eye covers just waiting for the pain and brain freeze to pass. Lights were fine when he was younger and people only used incandescents. He'd love to go on late night walks but the harsh 6500K color "cool daylight" lights used everywhere today make it hard for him to even step out at night. He sometimes has trouble cooking food for himself, going quite hungry at times before he can muster up enough energy to do it or just order from outside. He doesn't talk to a lot of people and his parents are always worried about that.
+B has always struggled in school, apart from a few subjects, his 10th marks were decidly average and 12th even lower. He dropped out of college. Sounds hurt him quite a lot, often knocking him into autistic shutdown where he can only sit in a dark room with earplugs and eye covers just waiting for the pain and brain freeze to pass. Lights were fine when he was younger and people only used incandescents.
+
+He'd love to go on late night walks but the harsh 6500K color "cool daylight" lights used everywhere today make it hard for him to even step out at night. He sometimes has trouble cooking food for himself, going quite hungry at times before he can muster up enough energy to do it or just order from outside.
+
+He doesn't talk to a lot of people and his parents are always worried about that. Sometimes things get so overwhelming it's hard to speak at all.
 
 We could call this person a low functioning autistic. They're both me.
 
@@ -31,7 +35,6 @@ These labels hurt everyone. Those called high functioning and low. Most of all t
 
 > # But if you can't handle me at my worst, then you sure as hell don't deserve me at my best.”
 >
->   
->  ― Marilyn Monroe
+> ― Marilyn Monroe
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Monroecirca1953.jpg/800px-Monroecirca1953.jpg)
