@@ -1,0 +1,20 @@
+---
+label: normal_template
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: categories
+  label: categories
+pages:
+- _posts/2021-11-02-hearing-protection.md
+- _posts/leaving-space-with-black-and-white.md
+- _posts/what-happens-without-safefoods-listening-to-your-body.md

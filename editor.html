@@ -1,0 +1,40 @@
+<html>
+
+<head>
+    <link rel="stylesheet" href="editor.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/simplemde/latest/simplemde.min.css">
+    <script src="https://cdn.jsdelivr.net/simplemde/latest/simplemde.min.js"></script>
+</head>
+
+<body>
+    <form action="mailto:indianautistics@gmail.com" method="post" enctype="text/plain">
+        <div class="submission-area">
+            <div class="submission-explainer">Whatever you type here will be saved even if you shut down your computer. Come back whenever and finish it.<br/>
+                When you're ready to send what you've written, click the submit button. Clicking Submit will open a draft email to Indian Autistics. Once the email opens, click send.
+                </div>                
+            <button name="save" type="submit" id="post-submit">Submit</button>
+        </div>
+        <textarea id="editorid" name="editor"></textarea>
+        <script>
+            var simplemde = new SimpleMDE({
+                autofocus: true,
+                autosave: {
+                    enabled: true,
+                    uniqueId: "MyUniqueID",
+                    delay: 1000,
+                },
+                blockStyles: {
+                    bold: "__",
+                    italic: "_"
+                },
+                promptURLs: true,
+                spellChecker: false
+            });
+        </script>
+        <div class="bottom-submit">
+            <button name="save" type="submit" id="post-submit">Submit</button>
+        </div>
+    </form>
+</body>
+
+</html>
