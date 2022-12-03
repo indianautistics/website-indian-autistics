@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Systemic Reform Ideas From Ideas from NCPEDP interview Much Much Spectrum
+title: Systemic Reform Ideas from NCPEDP interview Much Much Spectrum
 date: 2022-12-03 10:00:00 +0000
 categories: autism systems disabity
 
