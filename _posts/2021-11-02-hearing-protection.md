@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Autistic Hearing Protection
-date: 2021-11-02T14:30:00.000+00:00
-categories: autism,noise cancellation,sound,hyperacusis
-
+date: 2021-11-02T14:30:00.000Z
+categories: 'autism,noise cancellation,sound,hyperacusis'
+_template: normal_template
 ---
+
 We've all been there, someone's eating with metal cutlery on ceramic crockery and you're trying to not die of noise while getting through the meal.
 
 All manner of methods to acclimatise yourself to sound won't work, just like people will never get used to just existing while being tortured.
