@@ -32,7 +32,8 @@ github_username:  indianautistics
 theme: minima
 plugins:
   - jekyll-feed
-
+# For some reason it thinks some posts are in the future, adding those.
+future: true
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
