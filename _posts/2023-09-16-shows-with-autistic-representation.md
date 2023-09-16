@@ -2,7 +2,7 @@
 layout: post
 title: Tv Shows With Autistic Representation
 date: 2023-09-16 10:00:00 +0000
-categories: autism tvshow movie
+categories: 'autism tvshow movie'
 
 ---
 
