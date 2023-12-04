@@ -39,3 +39,12 @@ You might also be missing out on solutions like asking for help or dropping the 
 What should you do if your stims aren't helping and taking you into unhealthy territory? That is something you need to discover. A good therapist can help you with this, giving you options you didn't think possible but will be obvious in hindsight. Or perhaps you could come up with something as well, if you had a little break to think something different in.
 
 Whatever solution you come up with, I'll be happy for you and now you know one more way to figure out if you're stressed.
+
+# How to Start
+What's a good way to practically be able to do this when stuck in a loop?
+
+Just get up.
+
+Whatever you were doing, your laptop, your phone your snacks, leave them wherever they are and get up and walk in any direction, preferably out of the room you were in.
+
+It will give you the change and start you need to think about what you're doing, why, and what you should really do next.
