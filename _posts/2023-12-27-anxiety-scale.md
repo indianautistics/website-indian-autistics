@@ -5,6 +5,7 @@ date: 2023-12-27T13:24:00.000+00:00
 categories: adhd
 
 ---
+By Sweta Sukhani
 
 This scale might help quantify what level of anxiety you're facing. When your anxiety is too high for too long you're more likely to engage in maladaptive behaviour.  
 Anything from social media scrolling for hours on end to eating disorders or substance abuse.  
