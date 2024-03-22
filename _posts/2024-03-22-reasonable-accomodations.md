@@ -26,7 +26,21 @@ If I don't take them off before talking a lot, the sound of my own voice in my h
 
 ---
 
-"Why do you have two sets of sunglasses? And why are you wearing them at night" One set is for reducing the pain of fast moving headlights that cars keep on even in the day the other is for being able to stay longer in flourescent lighting at night. If you'll just didn't have blinding lights in cars and warm lighting in buildings I wouldn't need either of them.
+"Why do you have two sets of sunglasses? And why are you wearing them at night"  
+One set is for reducing the pain of fast moving headlights that cars keep on even in the day the other is for being able to stay longer in flourescent lighting at night. If you'll just didn't have blinding lights in cars and warm lighting in buildings I wouldn't need either of them.
+
+---
+"Why do you have a 35k Dyson, 17k AQI monitor and 3k CO2 monitor? That seems very unreasonable"  
+The dyson cleans the air when people suddenly burn garbage outside and alerts me when the AQI goes bad before it reaches me in the hall.
+
+The dyson is also large and not terribly portable, so if I want to know if the smoke is cleared out of another room I leave the AQI monitor there to check. The AQI monitor also logs CO2 which is important to know when you have all the windows closed to block sound or smoke.
+
+The last CO2 monitor is important because the levels can be very different from room to room and often I'll need to know it in the hall and the bedroom and if I just carry the AQI device to the other room I'll forget it there because of my executive dysfunction and will run into pollution and CO2 dizzyness without realising it.
+
+"Dunno man seems like an unreasonable expense to me"  
+Yeah to you, congrats on being abled.
+
+---
 
 But it would be an unreasonable accomodation to ask society to make changes that don't matter to them wouldn't it? It would be far better to call everything I need to do "unreasonable" as I attempt to explain that yes it takes an unreasonable amount of effort for me to live. Many disabled people see that and end it.
 I still choose to be unreasonable.
