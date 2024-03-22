@@ -6,7 +6,7 @@ categories: autism
 
 ---
 
-As a disabled person living in a society that wasn't built for him, my life is a series of unreasonable choices if seen from an able bodied lense.
+As a disabled person living in a society that wasn't built for him, my life is a series of unreasonable choices if seen from an able bodied lens.
 
 ---
 
